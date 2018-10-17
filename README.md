@@ -1,2 +1,2 @@
-# adhoc-portfolio
-My portfolio specifically for Chicago Digital since I haven't updated my page in a long while :) and also for fun!!!
+# Animated Portfolio (10/17/18)
+Modification of @developertenzin's 'adhoc-portfolio'
